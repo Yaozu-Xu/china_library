@@ -20,7 +20,7 @@ class LibraryPipeline(object):
         self.db = pymysql.connect(
             host='localhost',
             user='xyz',
-            passwd='131865apple',
+            passwd='',
             db='china_library',
             charset='utf8',
         )
