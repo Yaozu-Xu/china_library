@@ -1,0 +1,43 @@
+CREATE TABLE `alldomainlink` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `res_index` int(11) NOT NULL,
+  `res_domain` varchar(100) NOT NULL,
+  `res_publictitle` varchar(1000) DEFAULT NULL,
+  `res_publicatuhor` varchar(1000) DEFAULT NULL,
+  `res_publiclink` varchar(1000) DEFAULT NULL,
+  `res_publicdateyear` varchar(10) DEFAULT NULL,
+  `res_isfinished` bit(1) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+CREATE TABLE `domaintask` (
+  `task_id` int(11) NOT NULL AUTO_INCREMENT,
+  `domaincode` int(10) DEFAULT NULL,
+  `domainname` varchar(20) DEFAULT NULL,
+  `domainlink` varchar(100) DEFAULT NULL,
+  `domainsum` int(11) DEFAULT NULL,
+  `is_finished` bit(1) DEFAULT NULL,
+  PRIMARY KEY (`task_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+CREATE TABLE `linkdetails` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `header` varchar(32) DEFAULT NULL,
+  `id_num` char(16) DEFAULT NULL,
+  `conventional_data` varchar(64) DEFAULT NULL,
+  `title_and_response` varchar(64) DEFAULT NULL,
+  `publisher` varchar(64) DEFAULT NULL,
+  `ZTXT` varchar(64) DEFAULT NULL,
+  `language` char(20) DEFAULT NULL,
+  `common_remark` varchar(64) DEFAULT NULL,
+  `content_abstract` varchar(256) DEFAULT NULL,
+  `title` varchar(64) DEFAULT NULL,
+  `subject` varchar(64) DEFAULT NULL,
+  `category` char(20) DEFAULT NULL,
+  `writer` varchar(64) DEFAULT NULL,
+  `all_items` varchar(128) DEFAULT NULL,
+  `library_collection` varchar(64) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+INSERT INTO `domaintask` VALUES ('1', '1', 'CLC =\"p4?\"', 'http://opac.nlc.cn/F', '10788', '');

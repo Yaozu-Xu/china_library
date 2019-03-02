@@ -1,0 +1,506 @@
+2019-03-01 16:31:27 [library.pipelines] WARNING: 2019-03-01 16:31:27
+2019-03-01 16:31:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:28 [library.pipelines] WARNING: 2019-03-01 16:31:28
+2019-03-01 16:31:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:30 [library.pipelines] WARNING: 2019-03-01 16:31:30
+2019-03-01 16:31:30 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:31 [library.pipelines] WARNING: 2019-03-01 16:31:31
+2019-03-01 16:31:31 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:31:32 [library.pipelines] WARNING: 2019-03-01 16:31:32
+2019-03-01 16:31:32 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:32 [library.pipelines] WARNING: 2019-03-01 16:31:32
+2019-03-01 16:31:32 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:33 [library.pipelines] WARNING: 2019-03-01 16:31:33
+2019-03-01 16:31:33 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:33 [library.pipelines] WARNING: 2019-03-01 16:31:33
+2019-03-01 16:31:33 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:31:35 [library.pipelines] WARNING: 2019-03-01 16:31:35
+2019-03-01 16:31:35 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:35 [library.pipelines] WARNING: 2019-03-01 16:31:35
+2019-03-01 16:31:35 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:35 [library.pipelines] WARNING: 2019-03-01 16:31:35
+2019-03-01 16:31:35 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:37 [library.pipelines] WARNING: 2019-03-01 16:31:37
+2019-03-01 16:31:37 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:31:37 [library.pipelines] WARNING: 2019-03-01 16:31:37
+2019-03-01 16:31:37 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:37 [library.pipelines] WARNING: 2019-03-01 16:31:37
+2019-03-01 16:31:37 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:38 [library.pipelines] WARNING: 2019-03-01 16:31:38
+2019-03-01 16:31:38 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:40 [library.pipelines] WARNING: 2019-03-01 16:31:40
+2019-03-01 16:31:40 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:31:40 [library.pipelines] WARNING: 2019-03-01 16:31:40
+2019-03-01 16:31:40 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:40 [library.pipelines] WARNING: 2019-03-01 16:31:40
+2019-03-01 16:31:40 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:31:41 [library.pipelines] WARNING: 2019-03-01 16:31:41
+2019-03-01 16:31:41 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:31:41 [library.pipelines] WARNING: 2019-03-01 16:31:41
+2019-03-01 16:31:41 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:31:41 [library.pipelines] WARNING: 2019-03-01 16:31:41
+2019-03-01 16:31:41 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:31:42 [library.pipelines] WARNING: 2019-03-01 16:31:42
+2019-03-01 16:31:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:42 [library.pipelines] WARNING: 2019-03-01 16:31:42
+2019-03-01 16:31:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:43 [library.pipelines] WARNING: 2019-03-01 16:31:43
+2019-03-01 16:31:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:31:43 [library.pipelines] WARNING: 2019-03-01 16:31:43
+2019-03-01 16:31:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:49 [library.pipelines] WARNING: 2019-03-01 16:32:49
+2019-03-01 16:32:49 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:32:50 [library.pipelines] WARNING: 2019-03-01 16:32:50
+2019-03-01 16:32:50 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:50 [library.pipelines] WARNING: 2019-03-01 16:32:50
+2019-03-01 16:32:50 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:32:52 [library.pipelines] WARNING: 2019-03-01 16:32:52
+2019-03-01 16:32:52 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:52 [library.pipelines] WARNING: 2019-03-01 16:32:52
+2019-03-01 16:32:52 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:54 [library.pipelines] WARNING: 2019-03-01 16:32:54
+2019-03-01 16:32:54 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:32:54 [library.pipelines] WARNING: 2019-03-01 16:32:54
+2019-03-01 16:32:54 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:32:54 [library.pipelines] WARNING: 2019-03-01 16:32:54
+2019-03-01 16:32:54 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:32:54 [library.pipelines] WARNING: 2019-03-01 16:32:54
+2019-03-01 16:32:54 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:32:55 [library.pipelines] WARNING: 2019-03-01 16:32:55
+2019-03-01 16:32:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:55 [library.pipelines] WARNING: 2019-03-01 16:32:55
+2019-03-01 16:32:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:55 [library.pipelines] WARNING: 2019-03-01 16:32:55
+2019-03-01 16:32:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:55 [library.pipelines] WARNING: 2019-03-01 16:32:55
+2019-03-01 16:32:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:56 [library.pipelines] WARNING: 2019-03-01 16:32:56
+2019-03-01 16:32:56 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:56 [library.pipelines] WARNING: 2019-03-01 16:32:56
+2019-03-01 16:32:56 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:32:57 [library.pipelines] WARNING: 2019-03-01 16:32:57
+2019-03-01 16:32:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:58 [library.pipelines] WARNING: 2019-03-01 16:32:58
+2019-03-01 16:32:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:58 [library.pipelines] WARNING: 2019-03-01 16:32:58
+2019-03-01 16:32:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:59 [library.pipelines] WARNING: 2019-03-01 16:32:59
+2019-03-01 16:32:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:59 [library.pipelines] WARNING: 2019-03-01 16:32:59
+2019-03-01 16:32:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:32:59 [library.pipelines] WARNING: 2019-03-01 16:32:59
+2019-03-01 16:32:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:59 [library.pipelines] WARNING: 2019-03-01 16:32:59
+2019-03-01 16:32:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:32:59 [library.pipelines] WARNING: 2019-03-01 16:32:59
+2019-03-01 16:32:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:32:59 [library.pipelines] WARNING: 2019-03-01 16:32:59
+2019-03-01 16:32:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:33:00 [library.pipelines] WARNING: 2019-03-01 16:33:00
+2019-03-01 16:33:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:33:57 [library.pipelines] WARNING: 2019-03-01 16:33:57
+2019-03-01 16:33:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:33:57 [library.pipelines] WARNING: 2019-03-01 16:33:57
+2019-03-01 16:33:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:33:58 [library.pipelines] WARNING: 2019-03-01 16:33:58
+2019-03-01 16:33:58 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:33:59 [library.pipelines] WARNING: 2019-03-01 16:33:59
+2019-03-01 16:33:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:33:59 [library.pipelines] WARNING: 2019-03-01 16:33:59
+2019-03-01 16:33:59 [library.pipelines] WARNING: (1406, "Data too long for column 'publisher' at row 1")
+2019-03-01 16:33:59 [library.pipelines] WARNING: 2019-03-01 16:33:59
+2019-03-01 16:33:59 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:34:00 [library.pipelines] WARNING: 2019-03-01 16:34:00
+2019-03-01 16:34:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:00 [library.pipelines] WARNING: 2019-03-01 16:34:00
+2019-03-01 16:34:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:01 [library.pipelines] WARNING: 2019-03-01 16:34:01
+2019-03-01 16:34:01 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:34:01 [library.pipelines] WARNING: 2019-03-01 16:34:01
+2019-03-01 16:34:01 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:01 [library.pipelines] WARNING: 2019-03-01 16:34:01
+2019-03-01 16:34:01 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:02 [library.pipelines] WARNING: 2019-03-01 16:34:02
+2019-03-01 16:34:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:02 [library.pipelines] WARNING: 2019-03-01 16:34:02
+2019-03-01 16:34:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:02 [library.pipelines] WARNING: 2019-03-01 16:34:02
+2019-03-01 16:34:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:02 [library.pipelines] WARNING: 2019-03-01 16:34:02
+2019-03-01 16:34:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:03 [library.pipelines] WARNING: 2019-03-01 16:34:03
+2019-03-01 16:34:03 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:03 [library.pipelines] WARNING: 2019-03-01 16:34:03
+2019-03-01 16:34:03 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:34:03 [library.pipelines] WARNING: 2019-03-01 16:34:03
+2019-03-01 16:34:03 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:34:04 [library.pipelines] WARNING: 2019-03-01 16:34:04
+2019-03-01 16:34:04 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:34:04 [library.pipelines] WARNING: 2019-03-01 16:34:04
+2019-03-01 16:34:04 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:34:04 [library.pipelines] WARNING: 2019-03-01 16:34:04
+2019-03-01 16:34:04 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:04 [library.pipelines] WARNING: 2019-03-01 16:34:04
+2019-03-01 16:34:04 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:05 [library.pipelines] WARNING: 2019-03-01 16:34:05
+2019-03-01 16:34:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:05 [library.pipelines] WARNING: 2019-03-01 16:34:05
+2019-03-01 16:34:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:05 [library.pipelines] WARNING: 2019-03-01 16:34:05
+2019-03-01 16:34:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:05 [library.pipelines] WARNING: 2019-03-01 16:34:05
+2019-03-01 16:34:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:05 [library.pipelines] WARNING: 2019-03-01 16:34:05
+2019-03-01 16:34:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:34:06 [library.pipelines] WARNING: 2019-03-01 16:34:06
+2019-03-01 16:34:06 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:34:06 [library.pipelines] WARNING: 2019-03-01 16:34:06
+2019-03-01 16:34:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:06 [library.pipelines] WARNING: 2019-03-01 16:34:06
+2019-03-01 16:34:06 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:34:56 [library.pipelines] WARNING: 2019-03-01 16:34:56
+2019-03-01 16:34:56 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:34:57 [library.pipelines] WARNING: 2019-03-01 16:34:57
+2019-03-01 16:34:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:34:57 [library.pipelines] WARNING: 2019-03-01 16:34:57
+2019-03-01 16:34:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:57 [library.pipelines] WARNING: 2019-03-01 16:34:57
+2019-03-01 16:34:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:58 [library.pipelines] WARNING: 2019-03-01 16:34:58
+2019-03-01 16:34:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:34:59 [library.pipelines] WARNING: 2019-03-01 16:34:59
+2019-03-01 16:34:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:00 [library.pipelines] WARNING: 2019-03-01 16:35:00
+2019-03-01 16:35:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:00 [library.pipelines] WARNING: 2019-03-01 16:35:00
+2019-03-01 16:35:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:00 [library.pipelines] WARNING: 2019-03-01 16:35:00
+2019-03-01 16:35:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:00 [library.pipelines] WARNING: 2019-03-01 16:35:00
+2019-03-01 16:35:00 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:35:01 [library.pipelines] WARNING: 2019-03-01 16:35:01
+2019-03-01 16:35:01 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:01 [library.pipelines] WARNING: 2019-03-01 16:35:01
+2019-03-01 16:35:01 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:01 [library.pipelines] WARNING: 2019-03-01 16:35:01
+2019-03-01 16:35:01 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:02 [library.pipelines] WARNING: 2019-03-01 16:35:02
+2019-03-01 16:35:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:02 [library.pipelines] WARNING: 2019-03-01 16:35:02
+2019-03-01 16:35:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:02 [library.pipelines] WARNING: 2019-03-01 16:35:02
+2019-03-01 16:35:02 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:35:02 [library.pipelines] WARNING: 2019-03-01 16:35:02
+2019-03-01 16:35:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:02 [library.pipelines] WARNING: 2019-03-01 16:35:02
+2019-03-01 16:35:02 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:03 [library.pipelines] WARNING: 2019-03-01 16:35:03
+2019-03-01 16:35:03 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:03 [library.pipelines] WARNING: 2019-03-01 16:35:03
+2019-03-01 16:35:03 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:03 [library.pipelines] WARNING: 2019-03-01 16:35:03
+2019-03-01 16:35:03 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:35:03 [library.pipelines] WARNING: 2019-03-01 16:35:03
+2019-03-01 16:35:03 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:03 [library.pipelines] WARNING: 2019-03-01 16:35:03
+2019-03-01 16:35:03 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:04 [library.pipelines] WARNING: 2019-03-01 16:35:04
+2019-03-01 16:35:04 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:04 [library.pipelines] WARNING: 2019-03-01 16:35:04
+2019-03-01 16:35:04 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:05 [library.pipelines] WARNING: 2019-03-01 16:35:05
+2019-03-01 16:35:05 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:06 [library.pipelines] WARNING: 2019-03-01 16:35:06
+2019-03-01 16:35:06 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:53 [library.pipelines] WARNING: 2019-03-01 16:35:53
+2019-03-01 16:35:53 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:54 [library.pipelines] WARNING: 2019-03-01 16:35:54
+2019-03-01 16:35:54 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:35:55 [library.pipelines] WARNING: 2019-03-01 16:35:55
+2019-03-01 16:35:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:55 [library.pipelines] WARNING: 2019-03-01 16:35:55
+2019-03-01 16:35:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:55 [library.pipelines] WARNING: 2019-03-01 16:35:55
+2019-03-01 16:35:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:55 [library.pipelines] WARNING: 2019-03-01 16:35:55
+2019-03-01 16:35:55 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:56 [library.pipelines] WARNING: 2019-03-01 16:35:56
+2019-03-01 16:35:56 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:56 [library.pipelines] WARNING: 2019-03-01 16:35:56
+2019-03-01 16:35:56 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:56 [library.pipelines] WARNING: 2019-03-01 16:35:56
+2019-03-01 16:35:56 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:57 [library.pipelines] WARNING: 2019-03-01 16:35:57
+2019-03-01 16:35:57 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:58 [library.pipelines] WARNING: 2019-03-01 16:35:58
+2019-03-01 16:35:58 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:59 [library.pipelines] WARNING: 2019-03-01 16:35:59
+2019-03-01 16:35:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:59 [library.pipelines] WARNING: 2019-03-01 16:35:59
+2019-03-01 16:35:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:59 [library.pipelines] WARNING: 2019-03-01 16:35:59
+2019-03-01 16:35:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:35:59 [library.pipelines] WARNING: 2019-03-01 16:35:59
+2019-03-01 16:35:59 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:36:00 [library.pipelines] WARNING: 2019-03-01 16:36:00
+2019-03-01 16:36:00 [library.pipelines] WARNING: (1406, "Data too long for column 'content_abstract' at row 1")
+2019-03-01 16:36:00 [library.pipelines] WARNING: 2019-03-01 16:36:00
+2019-03-01 16:36:00 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:36:01 [library.pipelines] WARNING: 2019-03-01 16:36:01
+2019-03-01 16:36:01 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:36 [library.pipelines] WARNING: 2019-03-01 16:37:36
+2019-03-01 16:37:36 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:36 [library.pipelines] WARNING: 2019-03-01 16:37:36
+2019-03-01 16:37:36 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:36 [library.pipelines] WARNING: 2019-03-01 16:37:36
+2019-03-01 16:37:36 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:37 [library.pipelines] WARNING: 2019-03-01 16:37:37
+2019-03-01 16:37:37 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:37 [library.pipelines] WARNING: 2019-03-01 16:37:37
+2019-03-01 16:37:37 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:37:37 [library.pipelines] WARNING: 2019-03-01 16:37:37
+2019-03-01 16:37:37 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:37 [library.pipelines] WARNING: 2019-03-01 16:37:37
+2019-03-01 16:37:37 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:38 [library.pipelines] WARNING: 2019-03-01 16:37:38
+2019-03-01 16:37:38 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:38 [library.pipelines] WARNING: 2019-03-01 16:37:38
+2019-03-01 16:37:38 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:38 [library.pipelines] WARNING: 2019-03-01 16:37:38
+2019-03-01 16:37:38 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:39 [library.pipelines] WARNING: 2019-03-01 16:37:39
+2019-03-01 16:37:39 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:39 [library.pipelines] WARNING: 2019-03-01 16:37:39
+2019-03-01 16:37:39 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:39 [library.pipelines] WARNING: 2019-03-01 16:37:39
+2019-03-01 16:37:39 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:39 [library.pipelines] WARNING: 2019-03-01 16:37:39
+2019-03-01 16:37:39 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:40 [library.pipelines] WARNING: 2019-03-01 16:37:40
+2019-03-01 16:37:40 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:41 [library.pipelines] WARNING: 2019-03-01 16:37:41
+2019-03-01 16:37:41 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:41 [library.pipelines] WARNING: 2019-03-01 16:37:41
+2019-03-01 16:37:41 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:37:42 [library.pipelines] WARNING: 2019-03-01 16:37:42
+2019-03-01 16:37:42 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:43 [library.pipelines] WARNING: 2019-03-01 16:37:43
+2019-03-01 16:37:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:43 [library.pipelines] WARNING: 2019-03-01 16:37:43
+2019-03-01 16:37:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:43 [library.pipelines] WARNING: 2019-03-01 16:37:43
+2019-03-01 16:37:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:44 [library.pipelines] WARNING: 2019-03-01 16:37:44
+2019-03-01 16:37:44 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:44 [library.pipelines] WARNING: 2019-03-01 16:37:44
+2019-03-01 16:37:44 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:37:44 [library.pipelines] WARNING: 2019-03-01 16:37:44
+2019-03-01 16:37:44 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:44 [library.pipelines] WARNING: 2019-03-01 16:37:44
+2019-03-01 16:37:44 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:37:45 [library.pipelines] WARNING: 2019-03-01 16:37:45
+2019-03-01 16:37:45 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:45 [library.pipelines] WARNING: 2019-03-01 16:37:45
+2019-03-01 16:37:45 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:45 [library.pipelines] WARNING: 2019-03-01 16:37:45
+2019-03-01 16:37:45 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:45 [library.pipelines] WARNING: 2019-03-01 16:37:45
+2019-03-01 16:37:45 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:45 [library.pipelines] WARNING: 2019-03-01 16:37:45
+2019-03-01 16:37:45 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:45 [library.pipelines] WARNING: 2019-03-01 16:37:45
+2019-03-01 16:37:45 [library.pipelines] WARNING: (1406, "Data too long for column 'common_remark' at row 1")
+2019-03-01 16:37:46 [library.pipelines] WARNING: 2019-03-01 16:37:46
+2019-03-01 16:37:46 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:37:46 [library.pipelines] WARNING: 2019-03-01 16:37:46
+2019-03-01 16:37:46 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:22 [library.pipelines] WARNING: 2019-03-01 16:38:22
+2019-03-01 16:38:22 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:22 [library.pipelines] WARNING: 2019-03-01 16:38:22
+2019-03-01 16:38:22 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:22 [library.pipelines] WARNING: 2019-03-01 16:38:22
+2019-03-01 16:38:22 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:23 [library.pipelines] WARNING: 2019-03-01 16:38:23
+2019-03-01 16:38:23 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:24 [library.pipelines] WARNING: 2019-03-01 16:38:24
+2019-03-01 16:38:24 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:24 [library.pipelines] WARNING: 2019-03-01 16:38:24
+2019-03-01 16:38:24 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:26 [library.pipelines] WARNING: 2019-03-01 16:38:26
+2019-03-01 16:38:26 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:27 [library.pipelines] WARNING: 2019-03-01 16:38:27
+2019-03-01 16:38:27 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:28 [library.pipelines] WARNING: 2019-03-01 16:38:28
+2019-03-01 16:38:28 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:29 [library.pipelines] WARNING: 2019-03-01 16:38:29
+2019-03-01 16:38:29 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:39 [library.pipelines] WARNING: 2019-03-01 16:38:39
+2019-03-01 16:38:39 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:39 [library.pipelines] WARNING: 2019-03-01 16:38:39
+2019-03-01 16:38:39 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:40 [library.pipelines] WARNING: 2019-03-01 16:38:40
+2019-03-01 16:38:40 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:40 [library.pipelines] WARNING: 2019-03-01 16:38:40
+2019-03-01 16:38:40 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:43 [library.pipelines] WARNING: 2019-03-01 16:38:43
+2019-03-01 16:38:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:43 [library.pipelines] WARNING: 2019-03-01 16:38:43
+2019-03-01 16:38:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:43 [library.pipelines] WARNING: 2019-03-01 16:38:43
+2019-03-01 16:38:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:43 [library.pipelines] WARNING: 2019-03-01 16:38:43
+2019-03-01 16:38:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+2019-03-01 16:38:43 [library.pipelines] WARNING: 2019-03-01 16:38:43
+2019-03-01 16:38:43 [library.pipelines] WARNING: (1406, "Data too long for column 'title_and_response' at row 1")
+
+-----------------------------------------------------------------------------------------------------------------2019-03-01 16:50:54 [scrapy.core.scraper] ERROR: Error downloading <GET http://opac.nlc.cn/F/8CYYKIGU36JVDEKFGTPV7KYUQ5FD2X97HXQ8SQ211LA6LNLHCD-33660?func=short-jump&jump=241>
+Traceback (most recent call last):
+  File "c:\users\houyun\appdata\local\programs\python\python36\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+2019-03-01 16:52:30 [library.pipelines] WARNING: 2019-03-01 16:52:30
+2019-03-01 16:52:30 [library.pipelines] WARNING: (1406, "Data too long for column 'publisher' at row 1")
